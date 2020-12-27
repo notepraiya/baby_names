@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "832113626636",
+    "project_id": "baby-names-c4a05",
+    "storage_bucket": "baby-names-c4a05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832113626636:android:81a21dbffab1d6b6f76829",
+        "android_client_info": {
+          "package_name": "com.clubnote.baby_names"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832113626636-fjqngpak6th4js9la00iqjl5o1vl8e20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFHz9-tvRoxXod0F9tr6APAWf1pzxQd98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832113626636-fjqngpak6th4js9la00iqjl5o1vl8e20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
