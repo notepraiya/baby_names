@@ -2,5 +2,5 @@
 
 baby_names app
 
-https://codelabs.developers.google.com/codelabs/flutter-firebase#0
+follow https://codelabs.developers.google.com/codelabs/flutter-firebase#0
 
